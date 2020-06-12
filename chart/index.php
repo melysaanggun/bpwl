@@ -18,7 +18,7 @@
             categories: [$bulan],
             series: [
                 {
-                    name: 'Mendaftar',
+                    name: 'Pendaftar',
                     data: [$jumlahPendaftar]
                 },
                 {
@@ -62,7 +62,7 @@ var options = {
         title: 'Bulan'
     },
     xAxis: {
-        title: 'Pendaftar',
+        title: 'Mendaftar',
         min: 0,
         max: 250,
     },
