@@ -62,7 +62,7 @@ var options = {
         title: 'Bulan'
     },
     xAxis: {
-        title: 'Mendaftar',
+        title: 'Pendaftar',
         min: 0,
         max: 250,
     },
